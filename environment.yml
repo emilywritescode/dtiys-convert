@@ -1,0 +1,8 @@
+name: dtiys_conda
+dependencies:
+  - pillow
+  - python=3.8.5
+  - pip:
+    - colour==0.1.5
+    - tkmacosx==0.1.4
+
